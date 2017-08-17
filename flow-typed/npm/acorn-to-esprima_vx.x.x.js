@@ -13,6 +13,6 @@
  * https://github.com/flowtype/flow-typed
  */
 
-declare module 'acorn-to-esprima' {
-    declare module.exports: any;
+declare module "acorn-to-esprima" {
+  declare module.exports: any
 }

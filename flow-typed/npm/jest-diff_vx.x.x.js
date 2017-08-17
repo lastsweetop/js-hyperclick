@@ -13,6 +13,6 @@
  * https://github.com/flowtype/flow-typed
  */
 
-declare module 'jest-diff' {
-    declare module.exports: any;
+declare module "jest-diff" {
+  declare module.exports: any
 }
