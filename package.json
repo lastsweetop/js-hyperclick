@@ -1,7 +1,7 @@
 {
-  "name": "js-hyperclick",
-  "main": "./lib/js-hyperclick",
-  "version": "1.11.0",
+  "name": "lp-js-hyperclick",
+  "main": "./lib/lp-js-hyperclick",
+  "version": "0.0.0",
   "description": "A hyperclick provider that lets you jump to where variables are defined.",
   "keywords": [],
   "repository": "https://github.com/AsaAyers/js-hyperclick",
@@ -12,7 +12,7 @@
   },
   "scripts": {
     "precommit": "lint-staged && npm test",
-    "test": "atom --test spec/",
+    "test": "atom-beta --test spec/",
     "test-watch": "nodemon --exec 'npm test'"
   },
   "lint-staged": {
